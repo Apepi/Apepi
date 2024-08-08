@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm [Alexander] 👋
 
-<!--
-**Apepi/Apepi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+🔭 I'm currently working on [Green energy Backup-system Data app]
+🌱 I'm currently learning [Javascript]
+💡 I'm interested in [Cutting edge tech, composite materials, electronics, sustainable energy and ofcourse reptiles..]
+🎯 2024 Goals: [Big Career change from 3D design and mechanical development to software development!]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack 💻
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## GitHub Stats 📊
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Apepi&show_icons=true&theme=dracula)
+
+## Latest Projects 🛠️
+
+- [Project 1](https://github.com/Apepi/pythonwork/tree/main/Solarcontroller-Logger) - Short description
+
+## Let's Connect 🌐
+
+Feel free to reach out for collaborations or just a friendly chat!
