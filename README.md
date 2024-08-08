@@ -1,10 +1,13 @@
-# Hi there, I'm [Alexander] 👋
+# Hi there, I'm Alexander 👋
 
 ## About Me 🚀
 
 🔭 I'm currently working on [Green energy Backup-system Data app]
+
 🌱 I'm currently learning [Javascript]
+
 💡 I'm interested in [Cutting edge tech, composite materials, electronics, sustainable energy and ofcourse reptiles..]
+
 🎯 2024 Goals: [Big Career change from 3D design and mechanical development to software development!]
 
 ## Tech Stack 💻
