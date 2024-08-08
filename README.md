@@ -4,7 +4,7 @@
 
 🔭 I'm currently working: on Green energy Backup-system Data app
 
-🌱 I'm currently learning: Javascript ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+🌱 I'm currently learning: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 💡 I'm interested in: Cutting edge tech, composite materials, electronics, sustainable energy and ofcourse reptiles..
 
