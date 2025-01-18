@@ -27,7 +27,7 @@
 
 ## Latest Projects 🛠️
 
-- [Solar controller data logger](https://github.com/Apepi/pythonwork/tree/main/Solarcontroller-Logger) - Short description
+- [Garden Guru](https://github.com/Apepi/gardening-care-app) - Ai generated Watering and Feeding Schedules for your plants!
 
 ## Let's Connect 🌐
 
