@@ -1,36 +1,32 @@
-# Hi there, I'm Alexander 👋
+# Alexander ⚡️ Embedded Systems Engineer
 
-## About Me 🚀
+> *From mechanical design to flight control systems - engineering solutions that actually fly*
 
-🔭 I'm currently working: Squash Court Management API
+## 🛩️ Currently Building
+- **Drone Flight Systems** - Real-time control algorithms and sensor fusion
+- **Embedded C/C++** - Low-level firmware for autonomous systems
+- **Hardware Integration** - Bridging the gap between silicon and sky
 
-🌱 I'm currently learning: ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+## 🎯 Engineering Focus
+```cpp
+while(learning) {
+    embedded_systems++;
+    drone_autonomy.improve();
+    hardware_software_bridge.strengthen();
+}
+```
 
-💡 I'm interested in: Cutting edge tech, composite materials, electronics, sustainable energy and ofcourse reptiles..
+**Core Domains:** UAV Systems • Embedded Programming • Real-time Control • Sensor Integration
 
-🎯 2024 Goals: Big Career change from 3D design and mechanical development to software development!
-
-## Tech Stack 💻
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+## ⚙️ Tech Arsenal
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
+**Specialized:** Flight Controllers • Real-time OS • Sensor Fusion • PID Control
 
-## GitHub Stats 📊
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Apepi&show_icons=true&theme=dracula)
-
-## Latest Projects 🛠️
-
-- [Garden Guru](https://github.com/Apepi/gardening-care-app) - Ai generated Watering and Feeding Schedules for your plants!
-
-## Let's Connect 🌐
-
-Feel free to reach out for collaborations or just a friendly chat!
+## 🔬 Beyond Code
+When not debugging flight algorithms: **Composite Materials** • **Sustainable Tech** • **Reptile Conservation**
+---
